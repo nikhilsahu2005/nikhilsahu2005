@@ -1,5 +1,95 @@
-# 💫 About Me:
-Hi, I'm Nikhil Sahu — a passionate web developer and designer dedicated to creating exceptional digital experiences. With a keen eye for detail and a love for clean, functional design, I specialize in crafting websites that not only look great but deliver real value.<br><br>I believe in the power of collaboration and am always excited to discuss new projects. Whether you're looking to build something from scratch or enhance your existing web presence, I'm here to help bring your vision to life.<br><br>When I'm not coding, you'll find me exploring new technologies, contributing to the developer community, and constantly learning to stay at the forefront of web development trends.<br><br>Let's create something amazing together!
+
+# 👋 Hi, I'm Nikhil Sahu
+
+### 💻 Full Stack Developer | Software Engineer | Data Analytics Enthusiast
+
+I'm a final-year B.Tech student in Electronics and Communication Engineering at **NIT Agartala (2023–2027)**, passionate about software development, problem-solving, and building impactful applications.
+
+I enjoy developing scalable web applications, designing user-friendly interfaces, and working with data to solve real-world problems.
+
+---
+
+## 🚀 Technical Skills
+
+- **Languages:** C++, Python, JavaScript, SQL
+- **Frontend:** HTML, CSS, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, Django
+- **Databases:** MongoDB, MySQL, PostgreSQL, SQLite
+- **Tools & Technologies:** Git, GitHub, REST APIs, Socket.IO, Pandas
+
+---
+
+## 🛠️ Projects
+
+### 1. Real-Time Chat Application
+- Developed a real-time messaging application using the MERN stack and Socket.IO.
+- Implemented user authentication and real-time communication.
+- Integrated online user status and instant message notifications.
+
+### 2. Video Chat Application
+- Built a video communication application with real-time interaction capabilities.
+- Worked on frontend development, backend integration, and real-time communication.
+
+### 3. PII Redaction System
+- Developed a Python-based application to identify and redact Personally Identifiable Information (PII) from documents.
+- Used Python, spaCy, Faker, and python-docx.
+- Focused on protecting sensitive information in document files.
+
+### 4. Walmart Sales Data Analysis
+- Performed end-to-end data analysis using Python, Pandas, and SQL.
+- Cleaned and transformed raw datasets, handling missing values and duplicates.
+- Conducted Exploratory Data Analysis (EDA) to identify business trends and insights.
+- Used SQL queries, joins, aggregations, subqueries, and window functions.
+- Created visual reports to communicate key findings.
+
+### 5. Bug / Ticket Tracking System – NIC Internship
+- Contributed to the development of a ticket management system during my Software Engineering Internship at NIC, Tripura.
+- Worked with Python, Django, PostgreSQL, and SQL.
+- Contributed to ticket management functionality and backend development.
+
+---
+
+## 💼 Internship Experience
+
+**Software Engineering Intern | National Informatics Centre (NIC), Tripura**
+
+*May 2026 – July 2026*
+
+- Worked on backend development using Python and Django.
+- Gained practical experience with PostgreSQL and SQL.
+- Contributed to real-world software development workflows.
+
+---
+
+## 🏆 Achievements
+
+- Solved 700+ Data Structures and Algorithms problems.
+- LeetCode Contest Rating: 1808.
+- Qualified JEE Advanced.
+- Class X and Class XII School Topper.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nikhil-sahu-28574831a/)
+- **GitHub:** [GitHub Profile](https://github.com/nikhilsahu2005)
+- **LeetCode:** [LeetCode Profile](https://leetcode.com/u/Nikhilsahu2005/)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Let's build something impactful together! 🚀**
+
 
 
 ## 🌐 Socials:
